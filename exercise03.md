@@ -14,6 +14,8 @@
 
 4. Why did we use the `--global` flag?  (What does that do?)
 
+--global configs are avaiblable for all projects for the current user and stored in gitconfig. 
+
 
 5. Check your git config to show the changes you have made
 

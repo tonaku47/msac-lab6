@@ -25,5 +25,7 @@
 
 7. How much of the commit hash do you need to specify? Hint, run `git help log`
 
-8. How can you show just the last three commit messages?
+7 hash and 7 charaters 
 
+8. How can you show just the last three commit messages?
+To pick sha three nodes of hash is important for the discovery and to focus last three commit shows the messages.

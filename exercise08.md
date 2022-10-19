@@ -22,8 +22,9 @@
 
 8. What do these commands show?
 
-        git diff
-        git diff --staged
+        git diff this is not show
+        git diff --staged yes it shows
+
 
 9. Add the other changed file to the index
 

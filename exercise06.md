@@ -35,10 +35,13 @@
         git status
 
 10. Which of the steps could be omitted?
-
+        1. verify the file using a command `git status` 
+        2. Omitting a stage when I can create some git functions to handle the files and repository.
 11. Why might it be a bad idea to omit them?
+        1. Because its reason for readability and keep it simple when we want to verify the `git log` or `git status` to see the workflow.
 
 12. Repeat the above steps to add a new file with the name `vegetables.txt`
+
 
 13. Create a subdirectory named `equipment` and a new file named `appliances.txt` in that subdirectory
 
